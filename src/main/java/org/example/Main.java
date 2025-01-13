@@ -8,11 +8,7 @@ public class Main {
 
         //Scanner scanner = new Scanner(System.in);
 
-        int a = 4;
-        int b = 16;
-        int c = 7;
-
-        System.out.println((a + b == 20) || (a + c == 20) || (b + c == 20) ? true : false);
+        // Write code sample here
 
         // Close the Scanner
         //scanner.close();
